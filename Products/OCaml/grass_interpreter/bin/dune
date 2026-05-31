@@ -1,0 +1,10 @@
+(ocamllex
+ (modules lexer))
+
+(menhir
+ (modules parser))
+
+
+(executable
+ (public_name grass_interpreter)
+ (name main))

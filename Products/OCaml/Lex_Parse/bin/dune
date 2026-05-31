@@ -1,0 +1,11 @@
+(executable
+ (public_name lex_parse)
+ (name main)
+ (modules data_struct ll_parser lr_parser lexer main)
+ (libraries str))
+
+; (executable
+;  (name lexer)
+;  (public_name lexer)
+;  (libraries str)
+;  )
