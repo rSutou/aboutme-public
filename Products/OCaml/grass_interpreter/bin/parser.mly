@@ -21,12 +21,12 @@
 
 
 main:
-    | abs SV commands { Prog ($1,$3) }
+    | abs commands { Prog ($1,$2) }
 ;
 
 commands:
-	| abs SV commands 			{ CAbs $1 :: $3 }
-	| appcommands SV commands 	{ $1 @ $3 }
+	| SV abs commands 			{ CAbs $2 :: $3 }
+	| SV appcommands commands 	{ $2 @ $3 }
 	| EOF						{ [] }
 ;
 appcommands:
