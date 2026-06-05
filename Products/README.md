@@ -15,3 +15,6 @@
     命題論理式を解釈するプログラムを C# で実装した。
 - StatisticNote https://github.com/rSutou/StatisticNote
     統計学の授業の学習で作成した統計分布と仮説検定を行う Python プログラム。
+- SimpleTimer https://github.com/rSutou/SimpleTimer3
+    突然スケジューリングできるタイマーが必要になったので3時間くらいでで作った。
+    
