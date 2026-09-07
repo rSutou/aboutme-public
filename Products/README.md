@@ -7,7 +7,7 @@
 
 
 プロダクト一覧
-- Lex_Parse
+- Lex_Parse https://github.com/rSutou/lex_parse_by_ocaml
     字句解析、構文解析ファンクタの実装。現状は文法定義が膨大になってしまう問題があるが、いくつかのML風の文法例の構文解析、評価ができている。
 - grass_interpreter
     難解プログラミング言語 Grassのインタプリタを OCaml で実装した。
