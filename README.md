@@ -6,7 +6,9 @@
 # Directories & Files
 - Product
 
-- history.
-    学歴、職歴、資格等、プログラミング経験
-
+- history
+    - 学歴、職歴、資格等、プログラミング経験
+- Introduction
+    - 自己紹介
+      
 # Links
