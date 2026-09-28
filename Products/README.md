@@ -16,5 +16,5 @@
 - StatisticNote https://github.com/rSutou/StatisticNote
     統計学の授業の学習で作成した統計分布と仮説検定を行う Python プログラム。
 - SimpleTimer https://github.com/rSutou/SimpleTimer3
-    突然スケジューリングできるタイマーが必要になったので3時間くらいでで作った。
+    発表->質疑応答->交代->発表... のようにループできるタイマーが必要になったので3時間くらいで作った。Asset/Papers/ に説明用PDFが格納されています
     
